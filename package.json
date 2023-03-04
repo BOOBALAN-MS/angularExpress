@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BOOBALAN-MS/angularExpress/issues"
   },
-  "homepage": "https://github.com/BOOBALAN-MS/angularExpress#readme"
+  "homepage": "https://github.com/BOOBALAN-MS/angularExpress#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
