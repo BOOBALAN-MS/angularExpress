@@ -9,5 +9,5 @@ Backend🔥❤️‍🔥
     2. Nodemon -- npm install nodemon --save-dev
     
 Frontend😎❤️‍🔥
-    1. Angular
+    1. Angular --npm install @angular/cli (for angular in folder only).
     
