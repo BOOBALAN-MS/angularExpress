@@ -4,9 +4,8 @@ Create the app by using the Mysql Express.js Angular Node.js :-
 What i used to build the backend and frontend , mention below :-
 
 Backend🔥❤️‍🔥
-    1. Express.js
-    2. Mysql
-    3. Cors (cross-origin resource sharing)
+    1. Express.js -- npm install express
+    2. Nodemon -- npm install nodemon --save-dev
     
 Frontend😎❤️‍🔥
     1. Angular
